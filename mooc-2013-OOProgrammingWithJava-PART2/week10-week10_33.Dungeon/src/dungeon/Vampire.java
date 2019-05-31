@@ -13,16 +13,6 @@ public class Vampire extends Movable {
         this.xMax = length-1;
     }
 
-//    public String generateMovement(int moves) {
-//        int moves = 1+new Random.nextInt(moves-1);
-//        String moves = "wasd";
-//        String movement = "";
-//        for (int i=0; i<moves; i++) {
-//            movement += moves.charAt(new Random.nextInt(3));
-//        }
-//        return movement;
-//    }
-
     public void moveUp() {
         if (getY()-1 < 0)
             setY(0);
