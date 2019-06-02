@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b8892af-f662-4bdd-8d91-30ec3bdba073" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../week10-week10_32.DifferentBoxes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week10-week10_32.DifferentBoxes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week10-week10_33.Dungeon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week10-week10_33.Dungeon/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week10-week10_33.Dungeon/build_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../week10-week10_33.Dungeon/build_log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week10-week10_33.Dungeon/src/dungeon/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week10-week10_33.Dungeon/src/dungeon/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week10-week10_33.Dungeon/src/dungeon/Vampire.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week10-week10_33.Dungeon/src/dungeon/Vampire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/movingfigure/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/movingfigure/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/movingfigure/UserInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/movingfigure/UserInterface.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,11 +22,32 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="week11-week11_42.MovingFigure" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/TMCProjects/mooc-2013-OOProgrammingWithJava-PART2/week11-week11_42.MovingFigure" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="week11-week11_42.MovingFigure" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/TMCProjects/mooc-2013-OOProgrammingWithJava-PART2/week11-week11_42.MovingFigure" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="week11-week11_42.MovingFigure" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/TMCProjects/mooc-2013-OOProgrammingWithJava-PART2/week11-week11_42.MovingFigure" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="movingfigure" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
       <pane id="ProjectPane" />
     </panes>
@@ -70,11 +88,11 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24941452" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24941452" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="TMC Test Results" />
+      <window_info active="true" anchor="bottom" id="TMC Test Results" visible="true" weight="0.3293348" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
